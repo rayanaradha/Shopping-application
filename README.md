@@ -7,7 +7,9 @@ This is a sample e-commerce shopping website Build using the Web Components. It 
 Technologies : LitElement , LitHTML , JSON
 
 I built this application based on the project below.
+
 https://github.com/Polymer/shop
+
 Above project was built using polymer web components. In my project I used to build Lit Element which was a new version of polymer webcomponents. 
 
 
