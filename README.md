@@ -1,5 +1,7 @@
 # Shopping Website
 
+![alt text](https://github.com/rayanaradha/Shopping-application/blob/master/images/39545341-c50a9184-4e05-11e8-88e0-0e1f3fa4834b.png)
+
 This is a sample e-commerce shopping website Build using the Web Components. It provides a pattern for a real-life shopping cart and store checkout flow.
 
 Technologies : LitElement , LitHTML , JSON
