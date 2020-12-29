@@ -1,8 +1,12 @@
 # Shopping Website
 
-This is a sample e-commerce shopping website Build using the Web Components. Its provide pattern for a real-life shopping cart and store checkout flow.
+This is a sample e-commerce shopping website Build using the Web Components. It provides a pattern for a real-life shopping cart and store checkout flow.
 
 Technologies : LitElement , LitHTML , JSON
+
+I built this application based on the project below.
+https://github.com/Polymer/shop
+Above project was built using polymer web components. In my project I used to build Lit Element which was a new version of polymer webcomponents. 
 
 
 To serve the site locally, run:
